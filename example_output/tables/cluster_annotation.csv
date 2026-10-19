@@ -1,0 +1,8 @@
+cluster,n_cells,assigned,score,scores
+0,1224,T cells (CD4/CD8),0.802,"{""T cells (CD4/CD8)"": 0.802, ""B cells"": 0.067, ""NK cells"": 0.103, ""Monocytes (CD14)"": 0.193, ""Dendritic cells"": 0.102, ""Platelets"": 0.009, ""Proliferating cells"": 0.015}"
+1,346,B cells,0.904,"{""T cells (CD4/CD8)"": 0.302, ""B cells"": 0.904, ""NK cells"": 0.058, ""Monocytes (CD14)"": 0.16, ""Dendritic cells"": 0.091, ""Platelets"": 0.014, ""Proliferating cells"": 0.009}"
+2,653,Monocytes (CD14),0.837,"{""T cells (CD4/CD8)"": 0.167, ""B cells"": 0.104, ""NK cells"": 0.135, ""Monocytes (CD14)"": 0.837, ""Dendritic cells"": 0.502, ""Platelets"": 0.044, ""Proliferating cells"": 0.009}"
+3,421,NK cells,0.697,"{""T cells (CD4/CD8)"": 0.497, ""B cells"": 0.074, ""NK cells"": 0.697, ""Monocytes (CD14)"": 0.159, ""Dendritic cells"": 0.101, ""Platelets"": 0.006, ""Proliferating cells"": 0.018}"
+4,34,Dendritic cells,0.912,"{""T cells (CD4/CD8)"": 0.279, ""B cells"": 0.147, ""NK cells"": 0.235, ""Monocytes (CD14)"": 0.574, ""Dendritic cells"": 0.912, ""Platelets"": 0.044, ""Proliferating cells"": 0.035}"
+5,12,Platelets,1.0,"{""T cells (CD4/CD8)"": 0.125, ""B cells"": 0.056, ""NK cells"": 0.083, ""Monocytes (CD14)"": 0.188, ""Dendritic cells"": 0.333, ""Platelets"": 1.0, ""Proliferating cells"": 0.0}"
+6,8,Proliferating cells,0.875,"{""T cells (CD4/CD8)"": 0.562, ""B cells"": 0.292, ""NK cells"": 0.583, ""Monocytes (CD14)"": 0.406, ""Dendritic cells"": 0.312, ""Platelets"": 0.062, ""Proliferating cells"": 0.875}"
